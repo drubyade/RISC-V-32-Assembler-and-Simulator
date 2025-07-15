@@ -1,5 +1,5 @@
 # RISC-V 32 Assembler and Simulator
-This is a repository for course project purposes of Computer Architecture i.e., CS 204.
+Follow the following steps to setup this on your terminal
 
 ## Getting Started with Create React App
 
